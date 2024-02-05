@@ -42,6 +42,10 @@ case "wav":
 
 Using Maven TODO
 
+## Run
+
+Use the FXGLMusicApp Launcher class to start the project, not the FXGLMusicApp class.
+
 
 ## License
 
